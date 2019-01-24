@@ -2,21 +2,21 @@
   keywords:
       - C
       - C++
-      - PHP
       - Python
+      - Matlab
+      - PHP
+      - Java
       - hadoop
-      - hive
-
 
 - name: Research Direction
   keywords:
       - Face Recognition
       - Image Processing
       - Data Analysis
-      - Recommended System
       - Machine Learning
       - Deeplearning
+      - Recommended System
 
 - name: Research Results
   keywords:
-      - 深度学习，人脸识别
+      - 深度学习，人脸识别，目标检测

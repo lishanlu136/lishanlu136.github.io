@@ -92,7 +92,7 @@ repository: lishanlu136/lishanlu136.github.io
 # ---------------- #
 # support provider: disqus, gitment, gitalk
 #comments_provider: gitalk
-comments_provider: gitalk
+comments_provider: gitment
 
 
 # !!!重要!!! 请修改下面这些信息为你自己申请的
@@ -107,8 +107,8 @@ gitment:
     owner: lishanlu136
     repo: blog-comments
     oauth:
-        client_id: ef4ee0f3d879e724a46c
-        client_secret: 2a98b4739a3712bb347ed63cf50b5a07e41f4c48
+        client_id: 38acd3848729059bfb66
+        client_secret: 00ac5ec02d16a51a0a2c5c8e640c9a078ebd02da
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lishanlu136

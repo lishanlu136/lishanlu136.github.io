@@ -7,20 +7,20 @@ comments: true
 menu: 关于
 permalink: /about/
 subtitle:   <h3>Download My CV</h3>
-            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Wendy_e.pdf" target="_blanks">
+            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Lishanlu_e.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-gb"></span> English
             </a>
-            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Wendy_e.pdf" target="_blanks">
+            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Lishanlu_e.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-cn"></span> 中文
             </a>
                             
 ---
 
-我是lishanlu，一直努力，不断进步。
+我是lishanlu，为梦想在努力前行。
 
-等待破茧成蝶。
+始终坚信知识改变命运。
 
-记录知识，坚信努力改变人生。
+记录生活，从点滴做起。
 
 ## 联系
 
