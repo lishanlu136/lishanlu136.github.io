@@ -1,0 +1,22 @@
+- name: Programming language
+  keywords:
+      - C
+      - C++
+      - PHP
+      - Python
+      - hadoop
+      - hive
+
+
+- name: Research Direction
+  keywords:
+      - Face Recognition
+      - Image Processing
+      - Data Analysis
+      - Recommended System
+      - Machine Learning
+      - Deeplearning
+
+- name: Research Results
+  keywords:
+      - 深度学习，人脸识别
