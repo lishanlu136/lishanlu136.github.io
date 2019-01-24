@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://lishanlu136.info
+url: https://lishanlu136.github.com
 date_format: "ordinal"
 title: lishanlu136
 subtitle: "Lishanlu's Personal Blog"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Lishanlu
 organization: OEasy
-organization_url: http://lishanlu136.info
+organization_url: https://lishanlu136.github.com
 github_username: lishanlu136
 location: Shenzhen, guangdong
 email: lishanlu136@163.com
